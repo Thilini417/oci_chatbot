@@ -7,4 +7,5 @@ Results for "Tell me a Joke"
 
 
 Results for "How was your day"
-![image](https://github.com/user-attachments/assets/64dca6c4-e72d-483c-8484-46023281327d)
+![image](https://github.com/user-attachments/assets/6ea14002-8aae-42d7-82fa-bba22f4aab3b)
+
